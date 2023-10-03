@@ -1,0 +1,16 @@
+{
+  "name": "repro-jsx-email",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test": "tsx test.tsx"
+  },
+  "dependencies": {
+    "@jsx-email/render": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.24",
+    "tsx": "^3.13.0",
+    "typescript": "^5.1.6"
+  }
+}
